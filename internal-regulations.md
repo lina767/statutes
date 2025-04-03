@@ -24,6 +24,10 @@ All changes to the membership will be added to a Membership Register, which is u
 
 Observer status is valid for two years and needs to be renewed every two years. It will automatically be renewed if the organization is in good standing, otherwise it should be renewed by the General Assembly.
 
+### Individual Membership Vetting Committee
+
+Admission to the Individual Members Group shall be determined by an Individual Membership Vetting Committtee, consisting of two or more committee members selected by the Bureau and serving at the pleasure thereof.
+
 ## Qualifying criteria
 
 ### Full membership {#full-membership}
@@ -52,9 +56,11 @@ Everyone, aged between 18 and 35 years, who broadly agree with the Manifesto and
 
 ## Suspension
 
-During suspension, an organization will lose its rights but keep its obligations as stated in the statutes. Members of the Federation may be temporarily suspended if the targeted member organization is suspected of breaching any of the membership obligations. A motion to suspend a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Members need to be informed about this motion three weeks prior to the start of the statutory event.
+During suspension, an organization or individual member will lose its rights but keep its obligations as stated in the statutes. Members of the Federation may be temporarily suspended if the targeted member organization is suspected of breaching any of the membership obligations. A motion to suspend a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Members need to be informed about this motion three weeks prior to the start of the statutory event.
 
 The suspension from the Federation is to be decided by a two-thirds majority. Each suspension is valid for a maximum of one year and may be revoked at any time by the relevant statutory body.
+
+An individual member who is not in good financial standing is automatically considered suspended until such time that they are in good standing again.
 
 ## Termination
 
@@ -68,6 +74,8 @@ A request for voluntary resignation by a member organization needs to be filed w
 Members need to be informed about this motion three weeks prior to the start of the statutory event. The Bureau is required to put forward a motion confirming the expulsion of any member which has retained candidate membership status for four years.
 
 The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets.
+
+An individual member can terminate their membership by simple declaration to the secretariat or Individual Membership Committee.
 
 # Bureau
 
@@ -126,6 +134,10 @@ Newly elected bureau members need to communicate their areas of responsibility t
 ## Term {#bureau-term}
 The President, the Secretary General and Treasurer are elected for the period of two years until the next General Assembly. The four Vice-presidents are elected for the period of one year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign.
 
+Elections shall be held at the first General Assembly of the calendar year corresponding with the end of the Bureau members’ term. Notice of elections shall be given concurrently with notice of the GA.
+
+In case of a resignation of a Bureau member, the Bureau has the power to appoint a replacement in a non-voting capacity until the next General Assembly, provided there is no meeting of the General Assembly in the following 30 days.
+
 ## Obligations {#bureau-obligations}
 
 ### Action Plan {#bureau-action-plan}
@@ -170,6 +182,8 @@ The AC will elect a chair after every change in its membership, or whenever it s
 
 ## Term
 A member of the AC is elected for a period of two years until the next General Assembly. A member can then decide on their own to serve another term. This decision has to be confirmed by the General Assembly. They can however serve no more than two consecutive terms.
+
+The Advisory council will propose new members to the General Assembly whenever an Advisory Council position becomes vacant. 
 
 ## Responsibilities
 
@@ -255,6 +269,14 @@ The committee shall possess the right to propose changes to the statutes and [Co
 
 The Office shall submit a written report to the member organizations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly. The Executive Director has the right to attend bureau meetings, but does not have voting rights.
 
+# Individual Membership Group {#img}
+
+Members of the Individual Members’ Group shall be considered individual members of IFLRY, and shall have the rights thereof at the General Assembly.
+
+The election of the Individual Members Group Chair shall be done on the basis of one person, one vote, and shall require a majority of 50% of the votes. Otherwise, additional rounds of voting will be held, with the lowest performing candidate eliminated in each round, until a majority is achieved.
+
+The term of office for the Individual Members Group Chair shall be one year.
+
 # Candidacy
 
 ## Nomination
@@ -298,7 +320,7 @@ Membership in the Office is incompatible with being a Bureau member, as well as 
 Membership in the Committee of Discipline and Arbitrage is incompatible with being a Bureau member, as well as with points b, c and d of [article](#bureau-member-incompatibility).
 
 ### Acting as a delegate {#delegate-incompatibility}
-Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility). A Bureau member may act as a delegate of a voting member organization, only if no other delegate from that member organization is present at the General Assembly.
+Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility). A Bureau member may act as a delegate of a voting member organization, only if no other delegate from that member organization is present at the General Assembly, but may not speak on behalf of the member organization.
 
 # Code of Conduct {#code-of-conduct}
 
@@ -328,11 +350,11 @@ An internal financial crisis occurs when IFLRY lacks the necessary funds to sust
 
 ## Statutory meetings
 
-Elections may only be postponed in the event of a global crisis that makes holding fair elections, either online or in-person, impossible.
-
 In the event of a crisis, it is expected that statutory meetings will be moved online, ensuring organizational continuity.
 
 The decision to move a meeting online must be made by the Bureau based on objective criteria and communicated transparently to member organizations.
+
+Elections may only be postponed in the event of a global crisis that makes holding fair elections, either online or in-person, impossible.
 
 ### Prevention
 

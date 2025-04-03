@@ -9,6 +9,12 @@ The General Assembly is the highest decision-making body of the Federation. At t
 
 The Bureau must announce the date, time and location within at least three months before the General Assembly. An invitation for the General Assembly must be circulated eight weeks prior to the General Assembly to the members via e-mail.
 
+## Format
+
+The General Assembly may be held either in-person or online. The General Assembly is expected to meet in-person unless otherwise specified in the Internal Regulations. In the case of an Extraordinary General Assembly, the Bureau shall determine the format.
+
+When a General Assembly is held in person, online participation should be facilitated to the extent possible.
+
 ## Languages {#gen-lang}
 The General Assembly should use the official languages of the Federation. In the case that no translation facilities are available the working language will be English.
 
@@ -77,36 +83,28 @@ The returning officers shall announce the deadline for nominations for auditors.
 # Elections {#ga-elections}
 For the Bureau elections and appointments to the Advisory Council, those candidacies are valid that were received in writing by the IFLRY office four weeks before the start of the General Assembly.
 
+In elections where multiple rounds of voting are required, successive rounds shall be held immediately.
+
+The incoming Bureau members shall be installed in their roles at the close of the GA.
+
 ## President, Secretary General and Treasurer elections {#ga-elections-g3}
 The President, the Secretary General and the Treasurer shall be elected by simple majority vote. In the event none of the candidates to each of these positions receives more than 50% of the votes, there will  be additional rounds of voting until the required majority is achieved.
 
 In each of the additional rounds, those who receive the least number of votes, in such a way that even if the votes of those who received less than them could be added to their votes would not change their position, will not participate in the next round.
 
 ## Vice President Elections {#ga-elections-vp}
-The Vice Presidents of the organization shall be elected using the single transferable vote system (STV), in a way that safeguards the anonymity of votes. Each marked candidate will receive one vote. Each member organization must vote on the same number of candidates as the number of positions that must be filled. Voting ballots that do not have the full number of candidates as positions that must be filled will be counted as invalid. The 4 candidates with the most votes are elected in the order of the amount of votes. Only candidates reaching the quorum defined by the following formula are elected: $\frac{1}{\text{the positions available for election} + 1}$ will be eligible for election, meaning i.e. that for four Vice President positions the quorum will be $\frac{1}{4 + 1} = 20\%$ of the total votes possible. For three positions the formula will be $\frac{1}{3 + 1} = 25\%$ of the total votes possible. For two positions the quorum will be $\frac{1}{2 + 1} = 33.33\%$ of the total votes possible. In case of only one vacant position for a round of election, the principle of simple majority shall be used, as is the case with the positions of President, Secretary General and Treasurer as well.  
-
-In case that there are not enough candidates reaching the quorum of the votes, a new round of voting will be held for the remaining place(s). If there are not enough candidates reaching the quorum in the second round of voting, the position will remain vacant until a new call for elections is issued at the next General Assembly. If there are more selections on the ballot paper than the number of the Vice President positions to be elected, the ballot paper is considered invalid. The ballot will also be invalid if it is not possible to identify the names on the ballot. If candidates receive an equal number of votes and it remains unclear which candidates shall be elected, then a second round of voting between these candidates is to be conducted using the above mentioned procedure. Should in this second round of voting, an equal number of votes remain, then lots will be drawn to determine the winner.
+The Vice Presidents of the organization shall be elected using the single transferable vote system (STV), in a way that safeguards the anonymity of votes.
 
 ## Auditor Elections {#ga-elections-auditor}
 For the election of auditors, the ballot can be filled with one or two names. Each name will count   as one vote. It is not possible to give more than one vote to one candidate on each ballot. The two candidates who received the highest number of votes shall be elected Auditors. In case of resignation of an Auditor, the next person on the last Auditor election results list sorted on highest number of votes will replace the vacancy.
 
 ## Advisory Council Appointments {#ga-ac-appointment}
-For the appointment of the first Advisory Council, Advisory Council members will be proposed by the Bureau to the General Assembly. After that, the Advisory council will propose new members to the General Assembly whenever an Advisory Council position becomes vacant. In both cases, they will be appointed by the General Assembly through a simple majority vote.
+Advisory Council members will be appointed by the General Assembly through a simple majority vote.
 
 ## Expulsion and Replacement {#ga-elections-expulsion}
 It is the right of a General Assembly, both ordinary and extraordinary, to put the mandate of an elected person in question and to terminate that mandate following a motion of no-confidence with a two-thirds majority.
 
 Following the expulsion of an elected person it is the right of the General Assembly to immediately elect a replacement. The newly elected Bureau member or auditor will have a period of mandate that expires at the next General Assembly, where, would the mandate of the expelled Bureau member or auditor have originally not been elapsed yet, an election will be held for that position with a term that lasts until the end of the term of the expelled Bureau member or auditor.
-
-In case of a resignation of a Bureau member, the Bureau has the power to appoint a replacement in a non-voting capacity until the next General Assembly, provided there is no meeting of the General Assembly in the following 30 days.
-
-## Timing {#ga-elections-timing}
-
-Elections shall be held at the first General Assembly of the calendar year corresponding with the end of the Bureau members’ term. Notice of elections shall be given concurrently with notice of the GA.
-
-The incoming Bureau members shall be installed in their roles at the close of the GA.
-
-In elections where multiple rounds of voting are required, successive rounds shall be held immediately.
 
 # Agenda {#ga-agenda}
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership four weeks before the General Assembly.
@@ -133,6 +131,8 @@ Only amendments that are submitted 24 hours prior to the opening of the meeting 
 Secondary amendments can be dealt with on the spot, if the respective Standing Committee agrees by simple majority.
 
 # Standing Committees {#ga-standing-committees}
+Standing Committees will meet at each General Assembly and give a recommendation on proposals to the GA. Each Committee shall consist of one delegate from each full and associate member organisation, selected pursuant to each organisation's own procedures. The Bureau shall be represented at each Standing Committee in a non-voting capacity. 
+
 There are four Standing Committees which shall convene at each General Assembly, provided there are issues to discuss: Finances; Membership; Resolutions and Manifesto; and Statutory Documents. The role of the Standing Committees is to deliberate the issues in depth and to deliver a recommendation to the General Assembly.
 
 In each Standing Committee, the member organizations have one vote each, and only one delegate per member organization may contribute to the discussion and vote of each Standing Committee.
@@ -180,6 +180,8 @@ put to a vote.
 These points shall be limited to:
 
 (a) points of order, which is a request from the floor that seeks to remind or correct the Chair on the issue of the standing orders, and shall be decided upon immediately by the Chair when raised;
+(b) points of information should be used to inform the speaker and the assembly of Information that they believe is necessary to the current proceedings and may be taken at the discretion of the speaker;
+(c) points of privilege, which is a request to address a discomfort or issue that hinders the proper participation of someone from the floor.
 
 If the Chair deems an individual to be abusing their right to raise Procedural Points, the Chair should ask the individual to refrain from raising them until proceedings have moved on.
 
