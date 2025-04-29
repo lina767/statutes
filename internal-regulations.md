@@ -18,7 +18,7 @@ If a member organisation changes its name, or has merged with another organisati
 
 ## Admissions
 
-All membership applications must be received by the IFLRY office at least two weeks prior to the start of the General Assembly at which the applicant organisation wishes their application to be considered. The IFLRY Office will make sure that all submitted documents will be available to the members at least one week before the start of the General Assembly.
+All membership applications must be received by the IFLRY office at least two weeks prior to the start of the General Assembly at which the applicant organisation wishes their application to be considered. The Office will make sure that all submitted documents will be available to the members at least one week before the start of the General Assembly. 
 
 All changes to the membership will be added to a Membership Register, which is under the responsibility of the Bureau.
 
@@ -38,21 +38,35 @@ To qualify for full membership, an organisation must:
 (c) It must be run by and for young people;
 (d) It must be democratically organised;
 (e) It must be in agreement with the aims of IFLRY;
-(f) It must have been previously an associate member organisation of IFLRY.
+(f) It must have attended at least one IFLRY event prior to making the application; for purpose of defining such an event, a seminar linked to a General Assembly is to be considered the same event; therefore, the application cannot be made at that General Assembly; 
+(g) At least one event or activity organised by the applicant organisation must have been visited by an IFLRY Bureau member or an appointee of the IFLRY Bureau prior to their application being discussed;
+(h) It must provide copies of its Statutes/ Constitution, and copies of its Policy Programme/ Ideological standpoint in at least one of IFLRY's official languages and in its original form if that is not in one of IFLRY's official languages;
+(i) It must provide information of its activities and campaigns, which have taken place during the year prior to the application and anything so far planned for the future;
+(j) It must provide information of its sources of finance, for instance, if it receives state funding, party funds, and membership fees. It must also provide information about its financial turnover and its budget;
+(k) It must provide details of its membership fugures and also how it defines membership;
+(l) It must state whether it is directly or indirectly linked to or dependent on any other organisation, party, or foundation and what form that link takes.
+(m) It must have been previously an associate member organisation of IFLRY; 
+(n) It must be in good standing; 
+(o) It must have been represented at a minimum of one General Assembly, which must be additional to those meetings where the Associate Membership application was accepted.
 
 ### Associate membership
-To qualify for associate membership, an organisation must comply with points a through e of [article](#full-membership).
+To qualify for associate membership, an organisation must comply with points a through l of [article](#full-membership).
 
 ### Observer membership
-To qualify for observer membership, an organisation must comply with points a, b, d, and e of [article](#full-membership), and:
+To qualify for observer membership, an organisation must comply with points a, b, d, e, f, and h  of [article](#full-membership), and:
 
-(g) Be run for young people.
+(p) Be run for young people.
 
 ### Regional membership
 To qualify for regional membership, an organisation must comply with all points of [article](#full-membership).
 
 ### Individual Membership
-Everyone, aged between 18 and 35 years, who broadly agrees with the Manifesto and agrees with the aims of IFLRY, can become part of the Individual Members Group of IFLRY.
+Everyone, aged between 18 and 35 years, who broadly agrees with the Manifesto and agrees with the aims of IFLRY, can become part of the Individual Members Group of IFLRY. To qualify, the applicant:
+(q) must provide the Individual Membership Vetting Committee with the motivational letter, including a discussion of the individual's ideological and politcal views;
+(r) should be able to refer to at least one contact within IFLRY with whom they have worked;
+(s) should provide details of their activities and campaigns which have taken place prior to the application;
+(t) cannot be directly or indirectly linked to or dependent on any IFLRY Full or Associate Member Organisation;
+(u) must state whether they are directly or indirectly linked to or dependent on any other organisation, party, or foundation, and what form that link takes.
 
 ## Suspension
 
