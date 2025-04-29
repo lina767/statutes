@@ -11,7 +11,7 @@ The Bureau must announce the date, time and location within at least three month
 
 ## Format
 
-The General Assembly may be held either in-person or online. The General Assembly is expected to meet in-person unless otherwise specified in the Internal Regulations. In the case of an Extraordinary General Assembly, the Bureau shall determine the format.
+The General Assembly may be held either in-person or online. The General Assembly is expected to meet in-person unless otherwise specified in the Internal Regulations. Whoever calls for the Extraordinary General Assembly shall determine the format and holds the financial responsibility.
 
 When a General Assembly is held in person, online participation should be facilitated to the extent possible.
 
@@ -135,7 +135,7 @@ Standing Committees will meet at each General Assembly and give a recommendation
 
 There are four Standing Committees which shall convene at each General Assembly, provided there are issues to discuss: Finances; Membership; Resolutions and Manifesto; and Statutory Documents. The role of the Standing Committees is to deliberate the issues in depth and to deliver a recommendation to the General Assembly.
 
-In each Standing Committee, the member organisations have one vote each, and only one delegate per member organisation may contribute to the discussion and vote of each Standing Committee.
+In each Standing Committee, the member organisations have one vote each, and only one delegate per member organisation vote of each Standing Committee.
 The Bureau shall, and observer members may, be represented at each Standing Committee in a non-voting capacity.
 
 The Bureau shall appoint, subject to confirmation by the General Assembly, a Chair (the congress Chairs, unless otherwise stated) and Secretary for each Standing Committee.
@@ -170,7 +170,7 @@ The Standing Committee on Statutory Documents shall review any proposed amendmen
 A roll call shall be taken at the opening of each GA session and if requested. It shall be taken in the English alphabetical order of countries in connection with the vote being undertaken.
 
 ## List of Speakers {#ga-so-speakers}
-The chairperson may announce a list of speakers and with the consent of the General Assembly declare a list closed. The chairperson may announce a maximum time limit for contributions to the debate.
+The chairperson may announce a list of speakers and with the consent of the General Assembly declare a list closed.
 
 ## Procedural Points {#ga-procedural-points}
 
@@ -197,6 +197,15 @@ The order of Procedural Motions shall be limited to:
 (f) Motion to adjourn the item under discussion, which seeks to table the item currently under discussion until a specified later time.
 (g) Motion that the question be now put to a vote, shall require a two-thirds majority.
 (h) Motion for reference back, which seeks to refer the item being discussed to an existing or directly created body, and which calls for a specific time when said body must refer back, shall be debated before being put to a vote.
+(i) Motion to close the speakers list;
+(j) Motion to close the debate and move directly to a vote;
+(k) Motion to limit or extend speaking time;
+(l) Motion to vote on a proposal in sections;
+(m) Motion to change the order of the Agenda;
+(n) Motion to reopen a point of the Agenda;
+(o) Motion to request a secret vote;
+(p) Motion to call for a roll call vote;
+(q) Motion to refer any matter to a working group.
 
 In debate on a Procedural Motion, the only speakers allowed shall be the mover of the motion and the mover of the resolution or amendment, who shall have the right to reply; if the motion is not raised during a resolution or an amendment, there shall be no right to reply. Should any of these motions passed during a Standing Committee have an effect external to the Standing Committee itself, it shall be brought as a recommendation to the General Assembly.
 
