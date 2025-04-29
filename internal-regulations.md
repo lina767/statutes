@@ -75,7 +75,7 @@ Members need to be informed about this motion three weeks prior to the start of 
 
 The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets.
 
-An individual member can terminate their membership by simple declaration to the secretariat or Individual Members Group Chair.
+An individual member can terminate their membership by simple declaration to the Office or Individual Members Group Chair.
 
 # Bureau
 
